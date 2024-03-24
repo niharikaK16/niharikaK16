@@ -15,6 +15,6 @@ I'm a Computer Engineering graduate passionate about software development, AI, a
 
 ## Projects
 
-- [List of Your Projects with Links to Repositories or Demos]
+- https://github.com/niharikaK16/Flight_fare_prediction
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything! 😊
