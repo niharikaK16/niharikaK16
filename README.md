@@ -4,10 +4,14 @@ I'm a Computer Engineering graduate passionate about software development, AI/ML
 
 ## About Me
 
-- 🌱 I’m currently learning advanced topics in computer architecture and AI.
 - 👯 I’m looking to collaborate on projects involving software design, AI/ML applications, and DevOps practices.
-- 💬 Ask me about software development methodologies, AI programming, and cloud computing.
 - 📫 How to reach me: [Email](mailto:niharika.kanapuram@csu.fullerton.edu) | [LinkedIn](https://www.linkedin.com/in/niharika-kanapuram-69b3ba184/)
+
+## Learning Objectives
+
+- Gain proficiency in advanced concepts of computer architecture, AI, ML, and NLP.
+- Explore cutting-edge algorithms, methodologies, and applications.
+- Develop practical skills through hands-on projects and tutorials.
 
 ## Skills
 
