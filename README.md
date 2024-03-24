@@ -20,5 +20,6 @@ I'm a Computer Engineering graduate passionate about software development, AI/ML
 ## Projects
 
 - https://github.com/niharikaK16/Flight_fare_prediction
+- https://github.com/niharikaK16/Prediction_PasswordStrength_NLP
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything! 😊
